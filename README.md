@@ -11,8 +11,5 @@ Key Findings
 
 Real-World Applications
 ✔ Policymakers can use insights to shape economic policies.
-✔ Financial institutions can leverage findings for investment decisions.
+✔ Financial institutions can leverage findings for investment decision
 
-Technologies Used
-✔ Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)
-✔ Statistical Methods: T-Test, Correlation Analysis, Regression
